@@ -34,8 +34,9 @@ Here are a few things I’ve worked on (more coming soon!):
 
 ### 📫 Connect with Me
 - ✉️ **Email:** [ahmedraiyan.official@gmail.com]  
-- 📸 **Instagram:** [fal1_n_1]
-- 🎮 **Discord:** thefallenone2912 
+[![Instagram](https://img.shields.io/badge/📸%20Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/fal1_n_1/?next=%2F)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/721749952119832626)
+
 
 ---
 
