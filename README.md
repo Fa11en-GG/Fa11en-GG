@@ -17,9 +17,8 @@
 ### 🧩 My Projects
 Here are a few things I’ve worked on (more coming soon!):
 
-- 🔢 [Python Calculator](https://github.com/raiyan-ahmed/python-calculator)
-- 🌌 [Force & Motion Simulator](https://github.com/raiyan-ahmed/force-motion-sim)
-- 🌐 [Portfolio Website](https://github.com/raiyan-ahmed/portfolio-website)
+-  [Cricket Player Position Prediction AI agent](https://github.com/Fa11en-GG/AI-Project-CSE-422-)
+-  [Real-estate Management System](https://github.com/Fa11en-GG/Software-Engineering-CSE-470-Project)
 
 ---
 
