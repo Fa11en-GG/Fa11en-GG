@@ -7,8 +7,8 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Python**, **DaVinci Resolve** and **Japanese**
-- 🧠 Interested in **AI**, **photography**, **steaming** and **small tech builds**
+- 🌱 Currently learning **Python**, **DaVinci Resolve** and **Database management**
+- 🧠 Interested in **AI**, **photography**, **steaming**, **Sim racing** and **small tech builds**
 - 🎮 Part of my university’s **Esports Club (Executive at HR Team)**
 - 🧰 Tools I use: VS Code, GitHub, DaVinci Resolve, Photoshop, OBS
 
