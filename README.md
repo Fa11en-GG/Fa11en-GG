@@ -4,6 +4,8 @@
 💻 Passionate about tech, gaming, and coding  
 🎧 Love exploring hardware, photography, and creative projects  
 
+[Download/View my Resume](./Resume.pdf)
+
 ---
 
 ### 🚀 About Me
