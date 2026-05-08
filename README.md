@@ -4,7 +4,7 @@
 💻 Passionate about tech, gaming, and coding  
 🎧 Love exploring hardware, photography, and creative projects  
 
-[Download my Resume](https://github.com/Fa11en-GG/CV-Resume/blob/main/Resume.pdf)
+[CV / Resume](https://github.com/Fa11en-GG/CV-Resume/blob/main/Resume.pdf)
 
 ---
 
