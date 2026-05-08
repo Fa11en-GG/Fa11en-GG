@@ -20,6 +20,7 @@
 Here are a few things I’ve worked on (more coming soon!):
 
 
+-  [12-bit Parity Shifter](https://github.com/Fa11en-GG/12-Bit-Parity-Shifter__CSE-260)
 -  [Online Library Management System](https://github.com/Fa11en-GG/Library-Management-System_CSE-370-project)
 -  [Cricket Player Position Prediction AI agent](https://github.com/Fa11en-GG/AI-Project-CSE-422-)
 -  [Real-estate Management System](https://github.com/Fa11en-GG/Software-Engineering-CSE-470-Project)
