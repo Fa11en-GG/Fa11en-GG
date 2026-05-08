@@ -29,7 +29,7 @@ Here are a few things I’ve worked on (more coming soon!):
 ### 🧠 Skills
 | Language | Tools | Interests |
 |-----------|--------|------------|
-| Python | VS Code | Backend dev |
+| Python, JavaScript | VS Code | Backend dev |
 | HTML, CSS | VS Code | AI & Automation |
 | Editing | DaVinci Resolve | Short clips |
 
